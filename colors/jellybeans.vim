@@ -8,9 +8,14 @@
 "  "                 \___/                               "
 "
 "         "A colorful, dark color scheme for Vim."
+"         "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+"
+"         "FORK BY kovrik WITH SOME MINOR CHANGES"
+"
+"         "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
 "
 " File:         jellybeans.vim
-" URL:          github.com/nanotech/jellybeans.vim
+" URL:          github.com/kovrik/jellybeans.vim
 " Scripts URL:  vim.org/scripts/script.php?script_id=2555
 " Maintainer:   NanoTech (nanotech.nanotechcorp.net)
 " Version:      1.6~git
@@ -364,7 +369,7 @@ call s:X("NonText","606060",g:jellybeans_background_color,"",s:termBlack,"")
 
 call s:X("SpecialKey","444444","1c1c1c","",s:termBlack,"")
 
-call s:X("Search","f0a0c0","302028","underline","Magenta","")
+call s:X("Search","302028","f0a0c0","","Magenta","")
 
 call s:X("Directory","dad085","","","Yellow","")
 call s:X("ErrorMsg","","902020","","","DarkRed")

@@ -1,5 +1,8 @@
 jellybeans.vim
 ==============
+fork by kovrik
+
+I'VE JUST MADE SOME MINOR CHANGES
 
 A colorful, dark color scheme, inspired by [ir_black][] and [twilight][].
 
